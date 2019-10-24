@@ -1,0 +1,1 @@
+ini dari release 1
